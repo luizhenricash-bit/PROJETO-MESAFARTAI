@@ -7,4 +7,4 @@ Este projeto está diretamente alinhado à ODS 2 da ONU (Fome Zero e Agricultura
 
 
 script: database.py
-DB: database.py
+DB: mesafartai.db
